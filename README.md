@@ -15,8 +15,8 @@ npm install --save react-confirm-button
 ```jsx
 import React, { Component } from 'react'
 
-import {ConfirmButton} from 'react-confirm-button'
-import 'react-confirm-button/dist/index.css'
+import {ConfirmButton} from '@osallou/react-confirm-button'
+import '@osallou/react-confirm-button/dist/index.css'
 
 class Example extends Component {
   render() {
